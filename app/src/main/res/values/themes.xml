@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.MyApplication" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/pink_o</item>
+        <item name="colorAccent">@color/blue_bling</item>
+        <item name="android:textColorPrimary">@color/green_heavy</item>
+        <item name="android:windowBackground">@drawable/shape_login</item>
+        <item name="colorPrimaryVariant">@color/pink_word</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/blue_bling</item>
+        <item name="colorSecondaryVariant">@color/blue_light</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/pink_o</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

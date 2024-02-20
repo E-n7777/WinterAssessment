@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:title="首页"
+    android:id="@+id/first_view"
+    android:icon="@drawable/img_home_page"/>
+    <item android:title="知识体系"
+        android:id="@+id/knowledge_system"
+        android:icon="@drawable/img_system"/>
+    <item android:title="导航"
+        android:id="@+id/search"
+        android:icon="@drawable/img_search"/>
+    <item android:title="项目"
+        android:id="@+id/project"
+        android:icon="@drawable/img_project"/>
+
+</menu>

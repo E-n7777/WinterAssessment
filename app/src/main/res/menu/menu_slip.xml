@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/slip_search"
+        android:icon="@drawable/slip_search"
+        android:title="搜索" />
+    <item
+        android:id="@+id/collect"
+        android:icon="@drawable/collect"
+        android:title="收藏" />
+    <item
+        android:id="@+id/setting"
+        android:icon="@drawable/setting_24"
+        android:title="设置" />
+
+    <item android:title="Others">
+        <menu>
+            <item
+                android:id="@+id/night"
+                android:icon="@drawable/dark_mode_24"
+                android:title="夜间模式" />
+            <item
+                android:id="@+id/back"
+                android:icon="@drawable/power_settings_24"
+                android:title="退出登录" />
+        </menu>
+    </item>
+</menu>
